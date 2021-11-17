@@ -1,5 +1,5 @@
 {
-    "name": "vanadium",
+    "name": "LunarProxy",
     "version": "1.0.0",
     "description": "A powerful web-proxy site powered by Corrosion",
     "main": "server.js",
@@ -9,21 +9,21 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/titaniumnetwork-dev/vanadium.git"
+        "url": "git+https://github.com/maxswebservices/lunarproxybeta.git"
     },
     "keywords": [
         "web",
         "proxy",
         "corrosion",
-        "titaniumnetwork",
-        "vanadium"
+        "maxswebservices",
+        "lunarproxy"
     ],
-    "author": "LinuxTerm and LQ16",
-    "license": "ISC",
+    "author": "maxswebservices & titaniumnetwork-dev",
+    "license": "(none)",
     "bugs": {
-        "url": "https://github.com/titaniumnetwork-dev/vanadium/issues"
+        "url": "https://github.com/maxswebservices/lunarproxybeta/issues"
     },
-    "homepage": "https://github.com/titaniumnetwork-dev/vanadium#readme",
+    "homepage": "https://github.com/maxswebservices/lunarproxybeta#readme",
     "dependencies": {
         "corrosion": "^1.0.0",
         "express": "^4.17.1",
