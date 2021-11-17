@@ -19,15 +19,15 @@ body {
 
 :root {
   --accents: #222;
-  --backgrounds: #222;
-  --navbg: #111;
-  --textcolor: white;
-  --outlines: gray;
+  --backgrounds: black;
+  --navbg: black;
+  --textcolor: dodgerblue;
+  --outlines: white;
   --hovers: #444;
 }
 
 body {
-  background-color: var(--backgrounds);
+  background-color: black;
   background-size: cover;
   color: var(--textcolor);
   font-family: 'Ubuntu';
@@ -39,8 +39,8 @@ a:link {
 }
 
 .navbar {
-  background: var(--navbg);
-  border-bottom: 2px solid var(--accents);
+  background: black;
+  border-bottom: 2px solid white;
   left: 0;
   position: fixed;
   top: 0;
