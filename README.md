@@ -1,13 +1,13 @@
 # Vanadium
-A traditional proxy site for use in combating web filters.
+A traditional Corrosion proxy site for use in combating web filters.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxswebservices/lunarproxybeta/tree/main)
 
 ## Setup
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Vanadium
-cd Vanadium
+git clone https://github.com/maxswebservices/lunarproxybeta
+cd lunarproxybeta
 npm start
 ```
 
@@ -31,9 +31,4 @@ npm start
 
 - A mobile-responsive design makes this frontend usable on both mobile devices and traditional computers.
 
-- A work-in-progress arcade featuring classic Adobe Flash games, all working thanks to Ruffle.rs.
-
-
-## Copyright Takedown Requests
-
-Simply create an issue on this repository and we will assist you as soon as possible. If that doesn't suit you, then send an e-mail to nullnvoid@mailfence.com and I can work with you directly.
+- A work-in-progress arcade featuring classic Adobe Flash games, all working thanks to Ruffle.rs. (UNDER DEV, NOT IN PUBLIC RELEASE)
