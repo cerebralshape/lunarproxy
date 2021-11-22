@@ -1,7 +1,7 @@
 {
     "name": "LunarProxy",
-    "description": "High quality Web-Proxy based around the Corrosion proxy framework.",
-    "repository": "https://github.com/titaniumnetwork-dev/Vanadium",
-    "logo": "https://google.com/favicon.ico",
+    "description": "Internet Freedom. Simplified.",
+    "repository": "https://github.com/titan",
+    "logo": "https://raw.githubusercontent.com/maxswebservices/lunarproxybeta/75d8f2e6baf8dbdb212d9a435144426bfaa3b0a2/public/assets/logo.svg",
     "keywords": ["corrosion", "proxy", "web-unblocker", "internet", "gaming", "unblock", "maxswebservices", "LunarProxy"]
 }
