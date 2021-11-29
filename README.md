@@ -2,6 +2,7 @@
 A traditional Corrosion proxy site for use in combating web filters.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxswebservices/lunarproxybeta/tree/main)
+[![Deploy](https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/replit.svg?raw)](https://repl.it/github/maxswebservices/lunarproxybeta)
 
 ## Setup
 
