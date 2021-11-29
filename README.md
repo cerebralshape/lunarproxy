@@ -31,4 +31,4 @@ npm start
 
 - A mobile-responsive design makes this frontend usable on both mobile devices and traditional computers.
 
-- A work-in-progress arcade featuring classic Adobe Flash games, all working thanks to Ruffle.rs. (UNDER DEV, NOT IN PUBLIC RELEASE)
+- A work-in-progress arcade featuring classic Adobe Flash games, all working thanks to Ruffle.rs. 
