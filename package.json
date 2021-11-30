@@ -19,7 +19,7 @@
         "lunarproxy"
     ],
     "author": "maxswebservices",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/maxswebservices/lunarproxybeta/issues"
     },
