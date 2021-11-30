@@ -18,8 +18,8 @@
         "maxswebservices",
         "lunarproxy"
     ],
-    "author": "maxswebservices & titaniumnetwork-dev",
-    "license": "(none)",
+    "author": "maxswebservices",
+    "license": "ISC",
     "bugs": {
         "url": "https://github.com/maxswebservices/lunarproxybeta/issues"
     },
