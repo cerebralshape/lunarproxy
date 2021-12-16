@@ -19,10 +19,10 @@ body {
 
 :root {
   --accents: #222;
-  --backgrounds: black;
-  --navbg: red;
-  --textcolor: green;
-  --outlines: green;
+  --backgrounds: #B3000C;
+  --navbg: #B3000C;
+  --textcolor: #0D5901;
+  --outlines: #0D5901;
   --hovers: #ffcccb;
 }
 
@@ -39,8 +39,8 @@ a:link {
 }
 
 .navbar {
-  background: red;
-  border-bottom: 2px solid green;
+  background: #B3000C;
+  border-bottom: 2px solid #0D5901;
   left: 0;
   position: fixed;
   top: 0;
@@ -120,7 +120,7 @@ ul {
 }
 
 .b-box {
-  color: red;
+  color: #B3000C;
   text-align: center;
   position: absolute;
   left: 0;
