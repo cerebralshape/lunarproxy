@@ -27,7 +27,7 @@ body {
 }
 
 body {
-  background-color: black;
+  background-image: url(https://raw.githubusercontent.com/maxswebservices/lunarproxybeta/main/public/assets/background.gif);
   background-size: cover;
   color: var(--textcolor);
   font-family: 'Ubuntu';
