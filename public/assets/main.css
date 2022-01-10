@@ -27,7 +27,7 @@ body {
 }
 
 body {
-  background-image: url(https://raw.githubusercontent.com/maxswebservices/lunarproxybeta/main/public/assets/background.gif);
+  background-color: black;
   background-size: cover;
   color: var(--textcolor);
   font-family: 'Ubuntu';
@@ -39,8 +39,8 @@ a:link {
 }
 
 .navbar {
-  background: #0D5901;
-  border-bottom: 2px solid #B3000C;
+  background: black;
+  border-bottom: 2px solid white;
   left: 0;
   position: fixed;
   top: 0;
