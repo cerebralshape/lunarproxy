@@ -1,8 +1,8 @@
 # LunarProxy
 A traditional Corrosion proxy site for use in combating web filters.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxswebservices/lunarproxybeta/tree/main)
-[![Deploy](https://raw.githubusercontent.com/maxswebservices/lunarproxy/main/replit.svg)](https://repl.it/github/maxswebservices/lunarproxybeta)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxswebservices/lunarproxy/tree/main)
+[![Deploy](https://raw.githubusercontent.com/maxswebservices/lunarproxy/main/replit.svg)](https://repl.it/github/maxswebservices/lunarproxy)
 
 ## Setup
 
